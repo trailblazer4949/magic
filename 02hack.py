@@ -25,6 +25,6 @@ print(d)
 cs = b.copy()
 print(cs)
 
-Delete all records from string
+#Delete all records from string
 b.clear()
 print(b)
